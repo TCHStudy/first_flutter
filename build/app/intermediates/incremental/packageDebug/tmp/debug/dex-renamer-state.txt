@@ -1,0 +1,4 @@
+#Fri Feb 18 10:50:11 CST 2022
+base.0=/Users/tongchanghui/workPlace/app/newFlutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
